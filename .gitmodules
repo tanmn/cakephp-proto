@@ -1,0 +1,30 @@
+[submodule "plugins/DebugKit"]
+	path = plugins/DebugKit
+	url = https://github.com/cakephp/debug_kit.git
+[submodule "plugins/Migrations"]
+	path = plugins/Migrations
+	url = https://github.com/CakeDC/migrations.git
+[submodule "plugins/Users"]
+	path = plugins/Users
+	url = https://github.com/CakeDC/users.git
+[submodule "plugins/Utils"]
+	path = plugins/Utils
+	url = https://github.com/CakeDC/utils.git
+[submodule "plugins/Search"]
+	path = plugins/Search
+	url = https://github.com/CakeDC/search.git
+[submodule "plugins/Tags"]
+	path = plugins/Tags
+	url = https://github.com/CakeDC/tags.git
+[submodule "plugins/Goodies"]
+	path = plugins/Goodies
+	url = https://github.com/predominant/goodies.git
+[submodule "plugins/AclExtras"]
+	path = plugins/AclExtras
+	url = https://github.com/markstory/acl_extras.git
+[submodule "plugins/AclManager"]
+	path = plugins/AclManager
+	url = https://github.com/FMCorz/AclManager.git
+[submodule "plugins/Localized"]
+	path = plugins/Localized
+	url = https://github.com/cakephp/localized.git

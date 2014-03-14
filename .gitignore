@@ -1,7 +1,25 @@
-tmp/*
-[Cc]onfig/core.php
-[Cc]onfig/database.php
-app/tmp/*
-app/[Cc]onfig/core.php
-app/[Cc]onfig/database.php
+# User specific & automatically generated files #
+#################################################
+/app/Config/database.php
+/app/tmp/
+/lib/Cake/Console/Templates/skel/tmp/
+/plugins/
+/vendors/
+/build
+/dist
+/tags
+
+# Keep empty files to keep folder structure
 !empty
+!index.html
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.d
