@@ -32,7 +32,7 @@ SetEnvIf brokenvary 1 force-no-vary
 
     Header set Connection Keep-Alive
     Header set P3P "policyref=\"/w3c/p3p.xml\", CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    Header set X-Powered-By "Hizone Development Team"
+    Header set X-Powered-By "Leverages VN Co., Ltd."
     Header unset ETag
 </IfModule>
 

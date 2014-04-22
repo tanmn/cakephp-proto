@@ -70,11 +70,11 @@ Cache::config('default', array('engine' => 'File'));
  *
  */
 CakePlugin::load('DebugKit');
-CakePlugin::load('Migrations');
-CakePlugin::load('Search');
-CakePlugin::load('Utils');
-CakePlugin::load('Goodies');
-CakePlugin::load('Users', array('routes' => true));
+// CakePlugin::load('Migrations');
+// CakePlugin::load('Search');
+// CakePlugin::load('Utils');
+// CakePlugin::load('Goodies');
+// CakePlugin::load('Users', array('routes' => true));
 // CakePlugin::load('AclManager', array('bootstrap' => true));
 // CakePlugin::load('AclExtras');
 // CakePlugin::load('Localized');
